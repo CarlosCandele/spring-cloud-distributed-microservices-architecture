@@ -210,4 +210,12 @@ Para subir o ambiente completo:
 ```bash
 docker-compose up --build
 
-## Projeto desenvolvido por Carlos Jorge.
+---
+```
+---
+
+## 👨‍💻 Autor
+
+Projeto desenvolvido por Carlos Jorge.
+
+
